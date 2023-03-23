@@ -1,8 +1,8 @@
-noun = input("Enter a noun")
-adjective = input("Enter an adjective")
-another_noun = input("Enter another noun")
-another_adjective = input("Enter another adjective")
-additional_adjective = input("Enter an additional adjective")
+noun = input("Enter a noun: ")
+adjective = input("Enter an adjective: ")
+another_noun = input("Enter another noun: ")
+another_adjective = input("Enter another adjective: ")
+additional_adjective = input("Enter an additional adjective: ")
 
 
 print(f"There once was a {noun} that had very {adjective} skin.")
