@@ -1,0 +1,5 @@
+print("There once was a frog that had very itchy skin.")
+print("There was also a toad with smooth skin.")
+print("The frog was very jealous and desired to have skin like the toad.")
+print("Therefore, the frog did the unimagineable and used magic to change its skin.")
+print("Except, the magic backfired, and the frog wound up with crepy skin.")
